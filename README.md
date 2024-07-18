@@ -22,7 +22,7 @@ A Python script that scrapes articles from a specified website and automatically
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your_github_username/reddit-article-poster.git
+    git clone https://github.com/stephenhf/reddit-article-poster.git
     cd reddit-article-poster
     ```
 
