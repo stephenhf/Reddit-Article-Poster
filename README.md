@@ -80,7 +80,7 @@ Run the script:
 
     ```sh
     python post_articles.py
-    ```
+    
 
 The script will continuously monitor the specified website and post new articles to Reddit as they are added. It will log its activities and errors to help you track its operation.
 
