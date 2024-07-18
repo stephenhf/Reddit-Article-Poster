@@ -22,7 +22,7 @@ A Python script that scrapes articles from a specified website and automatically
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your_github_username/reddit-article-poster.git
+    git clone https://github.com/stephenhf/reddit-article-poster.git
     cd reddit-article-poster
     ```
 
@@ -38,7 +38,7 @@ A Python script that scrapes articles from a specified website and automatically
 
     - Create a `.env` file in the project directory with the following content:
 
-      ```env
+      ```sh
       REDDIT_CLIENT_ID=your_client_id
       REDDIT_CLIENT_SECRET=your_client_secret
       REDDIT_USER_AGENT=your_user_agent
