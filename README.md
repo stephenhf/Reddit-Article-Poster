@@ -1,4 +1,3 @@
-
 # Reddit Article Poster
 
 A Python script that scrapes articles from a specified website and automatically posts them to a Reddit subreddit.
@@ -23,7 +22,7 @@ A Python script that scrapes articles from a specified website and automatically
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/stephenhf/reddit-article-poster.git
+    git clone https://github.com/your_github_username/reddit-article-poster.git
     cd reddit-article-poster
     ```
 
@@ -68,6 +67,12 @@ A Python script that scrapes articles from a specified website and automatically
       ```sh
       echo "config.json" >> .gitignore
       ```
+
+4. Update the `website_url` in the `post_articles.py` script to the website you want to scrape:
+
+    ```python
+    website_url = 'YOUR_WEBSITE_URL'
+    ```
 
 ## Usage
 
