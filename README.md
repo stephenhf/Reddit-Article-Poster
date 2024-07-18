@@ -1,3 +1,4 @@
+
 # Reddit Article Poster
 
 A Python script that scrapes articles from a specified website and automatically posts them to a Reddit subreddit.
@@ -72,5 +73,16 @@ A Python script that scrapes articles from a specified website and automatically
 
 Run the script:
 
-```sh
-python post_articles.py
+    ```sh
+    python post_articles.py
+    ```
+
+The script will continuously monitor the specified website and post new articles to Reddit as they are added. It will log its activities and errors to help you track its operation.
+
+## Contributing
+
+Feel free to submit issues or pull requests if you have any improvements or suggestions.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
